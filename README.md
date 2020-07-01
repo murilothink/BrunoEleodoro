@@ -2,9 +2,15 @@
 
 Bruno is a Software Developer at IBM and a crazy programmer, attending hackathons, talks and other events.
 <br/>
+<center>
 <table>
   <tr>
-    <td><img src="http://brunoeleodoro.com/assets/assets/talk-unicamp.jpg"/></td>
-    <td><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGhsWDfP-2Slg/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=54rHQ3X01Nlf-x3UNvCNZMUZYwpnLhbdADqdpRYfSqM"/></td>
+    <td><img width="500px" src="http://brunoeleodoro.com/assets/assets/talk-unicamp.jpg"/></td>
+    <td><img width="500px" src="http://brunoeleodoro.com/assets/assets/talk-fluttertalks.jpg"/></td>
+  </tr>  
+  <tr>
+    <td><img width="400px" src="http://brunoeleodoro.com/assets/assets/hack-nasa.jpg"/></td>
+    <td><img width="500px" src="http://brunoeleodoro.com/assets/assets/hack-ibm.jpg"/></td>
   </tr>  
 </table>
+</center>
